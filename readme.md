@@ -10,7 +10,8 @@
 5. Install [openSteam]()
 6. Uala
 
-> This is for my personal use only. Not stealing anything, just making a room for no errors installing this.
+> This is for my personal use only. Not stealing anything.
+> 
 > Credits: K3rnelPan1c, iMAboud.
 
 
