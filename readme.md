@@ -8,7 +8,6 @@
 5. Install [opensteam]()
 6. Restart Steam & Enable Plugins in Millenium section.
 
-Enjoy
 
 > This is for my personal use only. Not stealing anything.
 > Credits: K3rnelPan1c, iMAboud.
