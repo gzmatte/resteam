@@ -1,5 +1,5 @@
 # openSteam
-> If Steam & SteamTools are already installed, uninstall it to avoid errors.
+```If Steam & SteamTools are already installed, uninstall it to avoid errors.```
 
 1. Install [Steam](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
 2. Install [SteamTools](https://www.steamtools.net/download)
@@ -9,7 +9,6 @@
 6. Uala
 
 > This is for my personal use only. Not stealing anything.
-> 
 > Credits: K3rnelPan1c, iMAboud.
 
 
