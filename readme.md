@@ -4,11 +4,10 @@
 2. Install [SteamTools](https://www.steamtools.net/download)
 3. Restart Steam & Login.
 4. Install [Millenium](https://docs.steambrew.app/users/getting-started/installation)
-5. Install [opensteam]()
+5. Install [opensteam](https://github.com/gzmatte/opensteam/releases/download/1/opensteam.bat)
 6. Restart Steam & Enable Plugins in Millenium section.
 
 
-> This is for my personal use only. Not stealing anything.
-> Credits: K3rnelPan1c, iMAboud.
+> This is for my personal use only. Credits K3rnelPan1c & iMAboud.
 
 
