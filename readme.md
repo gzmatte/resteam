@@ -1,4 +1,3 @@
-# opensteam
 ```If Steam & SteamTools are already installed, uninstall it to avoid errors.```
 
 1. Install [Steam](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
