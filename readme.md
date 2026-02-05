@@ -7,7 +7,8 @@
 4. Install [Millenium](https://docs.steambrew.app/users/getting-started/installation)
 5. Install [opensteam]()
 6. Restart Steam & Enable Plugins in Millenium section.
-7. Uala
+
+Enjoy
 
 > This is for my personal use only. Not stealing anything.
 > Credits: K3rnelPan1c, iMAboud.
