@@ -9,7 +9,6 @@
 
 ---
 
-Extras
 
  [Fluenty.zip]() - Paid Theme for Millenium
 
