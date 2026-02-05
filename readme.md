@@ -1,7 +1,5 @@
 # openSteam
 
-
-
 1. Install [Steam](https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe)
 2. Install [SteamTools](https://www.steamtools.net/download)
 3. Restart Steam & Login.
